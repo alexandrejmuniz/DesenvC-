@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-07-30T18:32:15.7328942Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-07-30T18:32:31.6164298Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "be29f563-2b40-4bb6-9815-a9670cd3ba66"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ALEXANDREMUNIZ"
+    }
+  }
+}

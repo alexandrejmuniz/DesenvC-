@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>38621042-030e-4f0a-aa6f-166295c28885</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/be29f563-2b40-4bb6-9815-a9670cd3ba66/resourceGroups/ALEXANDREMUNIZ/providers/microsoft.insights/components/audiencespeaker</ApplicationInsightsResourceId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
 
 </Project>
